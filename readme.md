@@ -1,4 +1,4 @@
-# _Shopping List_
+# [_Shopping List_](https://k8thedinosaur.github.io/groceries/)
 
 #### _HTML/CSS/JS exercise for Epicodus, 3/30/20_
 
